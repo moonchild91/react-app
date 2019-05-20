@@ -41,9 +41,9 @@ React를 프로덕션 모드로 올바르게 패키징하고 최상의 성능을
 
 ## 자세히 알아보기
 
-[Create React App documentation] (https://facebook.github.io/create-react-app/docs/getting-started)에서 더 많은 것을 배울 수 있습니다.
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)에서 더 많은 것을 배울 수 있습니다.
 
-React를 배우려면 [React documentation] (https://reactjs.org/)를 확인하십시오.
+React를 배우려면 [React documentation](https://reactjs.org/)를 확인하십시오.
 
 ### 코드 스플리팅
 
