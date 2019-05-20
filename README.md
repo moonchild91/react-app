@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app) 에서 땡겨(bootstrapped)왔습니다.
 
 ## 실행가능한 스크립트
 
@@ -9,8 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 개발 모드에서 실행합니다.<br>
 해당 앱을 [http://localhost:3000](http://localhost:3000) URL에서 기본 브라우저로 실행합니다.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+수정하면 웹페이지가 리로드(갱신)됩니다.<br>
+또한 콘솔창에 Lint 오류가 표시됩니다.
 
 ### `npm test`
 
