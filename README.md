@@ -1,4 +1,5 @@
 이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app) 에서 땡겨(bootstrapped)왔습니다.
+자체 번역 : zxcvb6615@gmail.com (JungHoonYu)
 
 ## 실행가능한 스크립트
 
