@@ -15,7 +15,7 @@ class App extends Component {
             Hello My React
           </p>
           <p>
-            this is my develop branch~!
+            포크 후 풀리퀘스트 연습용도
           </p>
           <a
             className="App-link"
