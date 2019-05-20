@@ -67,4 +67,4 @@ React를 배우려면 [React documentation] (https://reactjs.org/)를 확인하�
 
 ### `npm run build`가 축소되지 않음
 
-이 섹션은 여기로 옮겼습니다 : https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
