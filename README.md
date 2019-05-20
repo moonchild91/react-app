@@ -14,8 +14,8 @@
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode. <br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+대화식 모드에서 테스트를 시작합니다. <br>
+자세한 내용은 다음 링크에서 확인 할 수 있습니다. [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
 
 ### `npm run build`
 
