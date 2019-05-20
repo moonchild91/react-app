@@ -14,10 +14,10 @@
 
 ### `npm test`
 
-대화식 모드에서 테스트를 시작합니다. <br>
+대화식 모드에서 테스트를 시작합니다.<br>
 자세한 내용은 다음 링크에서 확인 할 수 있습니다. [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
 
-작성예정인가?
+#여기서부터는 작성 예정입니다.
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
