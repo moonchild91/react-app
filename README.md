@@ -1,13 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 실행가능한 스크립트
 
-In the project directory, you can run:
+해당 프로젝트에서 실행 가능한 스크립트 :
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+개발 모드에서 실행합니다.<br>
+해당 앱을 [http://localhost:3000](http://localhost:3000) URL에서 기본 브라우저로 실행합니다.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
