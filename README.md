@@ -27,43 +27,43 @@ React를 프로덕션 모드로 올바르게 패키징하고 최상의 성능을
 
 자세한 내용은 다음 링크에서 확인 할 수 있습니다. [deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
-###여기서부터는 작성 예정입니다.
-### `npm run eject`
+###v2.0 배포용 - 구글번역기 (여기서부터는 제대로 된 해석이 아닙니다.)
+###`npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+** 참고 : 이것은 단방향 조작입니다. 일단 당신이`꺼내기 ', 당신은 돌아갈 수 없어! **
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+빌드 도구 및 구성 선택 사항에 만족하지 않으면 언제든지 '꺼내기'가 가능합니다. 이 명령은 프로젝트에서 단일 빌드 종속성을 제거합니다.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+대신 모든 구성 파일과 전이 의존성 (Webpack, Babel, ESLint 등)을 프로젝트에 복사하여 완벽하게 제어 할 수 있습니다. `eject`를 제외한 모든 명령은 여전히 ​​작동하지만, 복사 된 스크립트를 가리켜 스크립트를 조정할 수 있습니다. 이 시점에서 당신은 혼자입니다.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+절대`꺼내기 '를 사용할 필요가 없습니다. 선별 된 기능 세트는 중소 규모 배포에 적합하므로이 기능을 사용해야 할 의무는 없습니다. 그러나이 도구는 사용자가 준비 할 때 사용자 정의 할 수없는 경우 유용하지 않다는 것을 알고 있습니다.
 
-## Learn More
+## 자세히 알아보기
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Create React App documentation] (https://facebook.github.io/create-react-app/docs/getting-started)에서 더 많은 것을 배울 수 있습니다.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React를 배우려면 [React documentation] (https://reactjs.org/)를 확인하십시오.
 
-### Code Splitting
+### 코드 분할
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+### 번들 크기 분석
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+### 점진적인 웹 앱 만들기
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### 고급 구성
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+이 섹션은 여기로 옮겼습니다 : https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+### 배치
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+이 섹션은 여기로 이동했습니다 : https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+###`npm run build`가 축소되지 않습니다.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+이 섹션은 여기로 옮겼습니다 : https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
